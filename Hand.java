@@ -1,29 +1,4 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title: Hand class for Cabo Game
-// Course: CS 300 Fall 2024
-//
-// Author: George Sukhotin
-// Email: sukhotin@wisc.edu
-// Lecturer: (Blerina Gkotse)
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// Partner Name: Saniya Goyal
-// Partner Email: sgoyal@wisc.edu
-// Partner Lecturer's Name: (Blerina Gkotse)
-//
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-// _X__ Write-up states that pair programming is allowed for this assignment.
-// _X__ We have both read and understand the course Pair Programming Policy.
-// _X__ We have registered our team prior to the team registration deadline.
-//
-//////////////////////// ASSISTANCE/HELP CITATIONS ////////////////////////////
-//
-// Persons: None
-// Online Sources: None
-//
-///////////////////////////////////////////////////////////////////////////////
+
 
 import java.util.ArrayList;
 
